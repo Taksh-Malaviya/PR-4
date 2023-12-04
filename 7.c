@@ -2,9 +2,9 @@
 
 main()
 {
-	int i,j,k=4,l=4;
-	for (i=1 ;i<=4 ; i++){
-			for(j=1 ; j<=7 ; j++){
+	int i,j,k=5,l=5;
+	for (i=1 ;i<=5 ; i++){
+			for(j=1 ; j<=9 ; j++){
 				if(j==k || j==l){
 					printf("* ");
 				}else{
