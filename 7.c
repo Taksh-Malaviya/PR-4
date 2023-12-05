@@ -2,7 +2,7 @@
 
 main()
 {
-	int i,j,k4;
+	int i,j,k;
 	for (i=1 ;i<=5 ; i++){
 		for (k=1 ;k>=i ; k--){
 			printf(" ");
